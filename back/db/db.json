@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 586,
+            "nickname": "T-PAIN",
+            "role": "president",
+            "username": "tinubu"
+        },
+        {
+            "id": 606,
+            "nickname": "batman",
+            "role": "superhero",
+            "username": "Bruce Wayne"
+        }
+    ]
+}
